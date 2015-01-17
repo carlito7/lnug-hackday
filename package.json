@@ -7,9 +7,6 @@
     "lint": "jshint .",
     "test": "istanbul cover _mocha -- -R spec tests/* && istanbul check-coverage --statements 80"
   },
-  "precommit": [
-    
-  ],
   "keywords": [
     "fastly"
   ],
